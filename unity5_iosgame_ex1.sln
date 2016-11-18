@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{CC5769A9-356F-C4C8-BF79-FCA00B471CAA}") = "unity5_iosgame_ex1", "Assembly-CSharp.csproj", "{B7E59CB9-5B08-8801-78D4-186A734399F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{B7E59CB9-5B08-8801-78D4-186A734399F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E59CB9-5B08-8801-78D4-186A734399F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E59CB9-5B08-8801-78D4-186A734399F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E59CB9-5B08-8801-78D4-186A734399F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
