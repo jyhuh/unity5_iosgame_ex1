@@ -1,5 +1,5 @@
-# unity5_iosgame_ex1
-unity5_iosgame_example1
+# unity5_iosgame_ex
+unity5_iosgame_example
 
 This Project is kind of Self-studying
 
